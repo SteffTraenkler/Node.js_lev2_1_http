@@ -1,0 +1,24 @@
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    text-align: center;
+}
+
+.error{
+    text-align: center;
+    background-color: darkred;
+    color: whitesmoke;
+}
+
+.error h1{
+    margin-bottom: 5%;
+}
+
+.error a {
+    color:darkred;
+    text-decoration: none;
+    padding: 2% 5%;
+    background-color: whitesmoke;
+}
